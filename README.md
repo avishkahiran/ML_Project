@@ -6,9 +6,9 @@ Comparing the Performance of Supervised Machine Learning Algorithms for Predicti
 
 Group members
 
-Student no	  Name	                              Algorithm worked on
 
-IT20090944	  O.S Udumullaarachchi	              Linear regression
+
+IT20090944 -	  O.S Udumullaarachchi	   -           Linear regression
 
 
 		
