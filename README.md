@@ -8,11 +8,11 @@ Group members
 
 
 
-IT20090944 -	  O.S Udumullaarachchi	   -           Linear regression
+IT20090944 -	  O.S Udumullaarachchi	   -            Linear regression
 
-
+IT20004118 -      G.K.A.H Bandara	   -	 	Logistic regression
 		
-IT20174330	- W.M.A.V. Jayawardane - Support Vector Machine
+IT20174330  - 	  W.M.A.V. Jayawardane 	   - 		Support Vector Machine
 
-IT20024086		
+IT20024086  -     R.N   Akmeemana          -		Decision tree		
 
