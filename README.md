@@ -12,7 +12,7 @@ IT20090944 -	  O.S Udumullaarachchi	   -           Linear regression
 
 
 		
-IT20174330	
+IT20174330	- W.M.A.V. Jayawardane - Support Vector Machine
 
 IT20024086		
 
